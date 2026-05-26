@@ -1,2 +1,2 @@
 # Agentic-AI
-For new Agentic AI work
+Teaching labs for Applied Agentic AI — LLM internals, planning systems, and the ReAct pattern.
